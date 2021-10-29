@@ -8,7 +8,7 @@ body {
       }
       
       body section.writing {
-    background-color:aqua;
+    background-color:red;
     margin:auto;
     padding:2em;
     display:flex;
@@ -26,8 +26,8 @@ section.writing figure {
 section.writing div.analysis {
     flex:1;
     padding: 3vw;
-    background-color:maroon;
-    color:white;
+    background-color:#AA3939;
+    
     
 }
 
