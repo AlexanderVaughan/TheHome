@@ -6,3 +6,37 @@ body {
       padding:15px; 
       line-height:1.4em
       }
+      
+      body section.writing {
+    background-color:aqua;
+    margin:auto;
+    padding:2em;
+    display:flex;
+    flex-direction:row; 
+    justify-content:space-between;
+}
+
+section.writing figure {
+    flex:1;
+   
+    padding: 3vw;
+    background-color:lemonchiffon;
+}
+
+section.writing div.analysis {
+    flex:1;
+    padding: 3vw;
+    background-color:maroon;
+    color:white;
+    
+}
+
+
+body section.gallery {
+    background-color: lavender; 
+    background-image: none; 
+    padding:2em; 
+    margin:auto; 
+    display:flex;
+    flex-direction:row;
+    }
