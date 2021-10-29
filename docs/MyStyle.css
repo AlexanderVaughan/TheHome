@@ -8,7 +8,7 @@ body {
       }
       
       body section.writing {
-    background-color:red;
+    background-color:maroon;
     margin:auto;
     padding:2em;
     display:flex;
@@ -31,12 +31,3 @@ section.writing div.analysis {
     
 }
 
-
-body section.gallery {
-    background-color: lavender; 
-    background-image: none; 
-    padding:2em; 
-    margin:auto; 
-    display:flex;
-    flex-direction:row;
-    }
